@@ -68,7 +68,7 @@ Isso encerra a trilha obrigatória do VS Code. Você pode parar aqui com o works
 
 Se quiser ampliar sua perspectiva sobre os recursos de agente do Copilot, as outras trilhas abordam cenários relacionados em interfaces diferentes:
 
-- 💻 **[Trilha da CLI](../../cli/)** — execute fluxos semelhantes no terminal com o Copilot CLI: modo de planejamento, skills de agentes, agentes personalizados e comandos de barra, como `/share`, `/context` e `/delegate`.
+- 💻 **[Trilha da CLI](../../cli/)** — entregue duas alterações revisadas no terminal com os modos Plan e Autopilot, skills, um agente de QA personalizado, MCP do Playwright, Agent Merge e transferências com reconhecimento de contexto.
 - ☁️ **[Trilha do agente na nuvem](../../cloud/)** — concentre-se em atribuir issues ao agente na nuvem, monitorar sessões pela página de agentes e iterar de forma assíncrona em pull requests.
 
 Você também pode continuar desenvolvendo o que começou aqui. O [awesome-copilot][awesome-copilot] é uma ótima fonte de arquivos de instruções, agentes personalizados e skills que você pode adaptar aos seus projetos.
